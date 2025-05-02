@@ -1,8 +1,8 @@
 # Privacy Policy for FinML Device
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [2nd May 2025]
 
-FinML Device ("we", "our", or "us") operates as a fully offline Android application. Your privacy is extremely important to us, and this Privacy Policy outlines how we handle user data.
+FinML Device APP operates as a fully offline Android application. Your privacy is extremely important to us, and this Privacy Policy outlines how we handle user data.
 
 ---
 
@@ -84,9 +84,8 @@ We may update this policy from time to time. You will be notified of any changes
 
 If you have questions or concerns, reach out at:
 
-📧 [your.email@domain.com]  
-📍 [Your Company/Startup Name]
+📧 [yogesh.chandra.iitbhu@gmail.com]  
 
 ---
 
-> Last updated: [Insert Date]
+> Last updated: [2nd May 2025]
